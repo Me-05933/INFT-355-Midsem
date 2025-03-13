@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    align-items: center;
+}
+.image{
+    margin-left: 40%;
+}
+h1{
+    margin-left: 40%;
+}
+.items h2{
+    margin-left: 40%;
+    align-items: center;
+}
